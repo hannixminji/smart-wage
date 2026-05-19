@@ -6,6 +6,13 @@
 
 ---
 
+# 🎥 Video Presentation
+
+📺 Video Demo:  
+https://drive.google.com/file/d/1PgeNw8FQ1cYrvp0AnFDyi8OWykWgdBHW/view?usp=sharing
+
+---
+
 This repository contains a modular PHP-based payroll system developed as an academic project.
 
 ---
